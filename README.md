@@ -12,7 +12,10 @@
 
 Repository for the [GD Seniors App](#) React Native application, built with Expo, Redux Toolkit and Typescript.
 Design can be found on [Figma](#).
-
+<p align="center">
+  <a href="https://rizq.us/v1/">
+    <img alt="app-store" src="https://rizq.us/v1/img/d.png" />
+</p>
 <br />
 
 ### 📦 Getting started
