@@ -4,20 +4,8 @@
 <br />
 
 <p align="center">
-  <a href="#">
-    <img alt="app-store" src="#" />
-  </a>
-  <a href="#">
-    <img alt="google-play" src="#" />
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="#">
-    <img alt="figma" src="#" />
-  </a>
+  <a href="https://rizq.us/v1/">
+    <img alt="app-store" src="https://rizq.us/v1/uploads/medium/saas_medium-372x158.gif" />
 </p>
 
 <br />
