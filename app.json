@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "RIZQ.Invo",
+    "slug": "rizq_invo",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "0.7.3",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2453f7"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "icon": "./assets/images/ios.icon.png",
+      "bundleIdentifier": "rizq.invoice",
+      "supportsTablet": true,
+      "buildNumber": "31"
+    },
+    "android": {
+      "icon": "./assets/images/android.icon.png",
+      "useNextNotificationsApi": true,
+      "package": "rizq.invoice",
+      "versionCode": 31
+    },
+    "userInterfaceStyle": "automatic",
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "rizqinvo",
+            "project": "rizq.invoice",
+            "authToken": null
+          }
+        }
+      ]
+    },
+    "description": "Pay as you Go! Cloud Services Billings Inventories & Recurring Invoicing xSaaS.\n",
+    "githubUrl": "https://github.com/RizqNGenXsis/hcsrn"
+  }
+}
