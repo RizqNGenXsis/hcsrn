@@ -10,8 +10,6 @@
 
 <br />
 
-![screenshots](#)
-
 Repository for the [GD Seniors App](#) React Native application, built with Expo, Redux Toolkit and Typescript.
 Design can be found on [Figma](#).
 
