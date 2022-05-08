@@ -12,7 +12,7 @@
 
 ![screenshots](#)
 
-Repository for the [Rizq.Invo](#) React Native application, built with Expo, Redux Toolkit and Typescript.
+Repository for the [GD Seniors App](#) React Native application, built with Expo, Redux Toolkit and Typescript.
 Design can be found on [Figma](#).
 
 <br />
@@ -47,3 +47,4 @@ $ cp secret.example.ts secret.ts
 <br />
 
 Repository and contributions are under [GNU General Public License v3.0](#)
+  &copy; Global Doctor Malaysia. Developed by Rizq Fintech Solutions.
