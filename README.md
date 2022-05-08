@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://rizq.us/v1/">
-    <img alt="app-store" src="https://rizq.us/v1/uploads/medium/saas_medium-372x158.gif" />
+    <img alt="app-store" src="https://rizq.us/v1/img/hcsrnlogo.png" />
 </p>
 
 <br />
