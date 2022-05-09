@@ -17,6 +17,12 @@ Design can be found on [Figma](#).
     <img alt="app-store" src="https://rizq.us/v1/img/d.png" />
 </p>
 <br />
+  
+  <p align="center">
+  <a href="https://rizq.us/v1/">
+    <img alt="app-store" src="https://rizq.us/v1/uploads/big/bann_big-737x426.png" />
+</p>
+  
 
 ### 📦 Getting started
 
